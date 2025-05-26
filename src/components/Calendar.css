@@ -1,0 +1,66 @@
+.cal-title {
+  height: 50px;
+  width: 37rem;
+}
+.cal-table {
+  width: 100%;
+  margin: 20px auto;
+  border-collapse: separate;
+}
+.cal-table td {
+  color: #041c7d;
+  padding: 15px;
+}
+table,
+td,
+th,
+tr {
+  border: none !important;
+}
+.cal-teeth,
+.cal-phy {
+  padding: 10px;
+  height: 110px;
+  border-radius: 20px;
+   font-weight:500;
+}
+.cal-teeth {
+  width: 200px;
+  color: white;
+  background-color: #041c7d;
+}
+.cal-phy {
+  width: 300px;
+  color: #041c7d;
+  background-color: #dfdfed;
+}
+.cal-inject,
+.cal-hearts,
+.cal-eye,
+.cal-neuro {
+  padding: 15px;
+  height: 90px;
+  border-radius: 20px;
+  color: #041c7d;
+  background-color: #dfdfed;
+  font-weight:500;
+}
+.cal-inject {
+  width: 300px;
+}
+.cal-eye {
+  width: 200px;
+}
+.cal-hearts {
+  width: 180px;
+}
+.cal-neuro {
+  width: 180px;
+}
+.upcoming{
+  margin-top: 20px;
+  height: 400px;
+}
+.upcoming h3,.upcoming h5,.upcoming .schedules1,.upcoming .schedules2{
+  padding: 5px;
+}

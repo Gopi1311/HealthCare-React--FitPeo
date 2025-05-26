@@ -1,0 +1,37 @@
+.nav {
+  height: 70px;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 50px;
+}
+.nav > div h1 {
+  display: inline-block;
+  color:#03d5ff;
+}
+.nav > div .care {
+  color:#041c7d;
+}
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  height: 40px;
+  width: 30vw;
+}
+input::placeholder {
+  padding: 0px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.8;
+}
+.search-icon {
+  position: relative;
+  right: 29vw;
+  bottom: 3px;
+  opacity: 0.7;
+}
+.bell-icon {
+  opacity: 0.8;
+}
