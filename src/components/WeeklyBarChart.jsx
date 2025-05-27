@@ -2,13 +2,13 @@ import React from "react";
 import "./WeeklyBarChart.css";
 
 const data = [
-  [  "blue","cyan","gray"],
-  ["blue","cyan","gray"],
-  ["blue", "cyan","gray"],
-  [ "blue", "cyan","gray"],
-  [ "blue","cyan","gray" ],
-  [  "blue","cyan","gray"],
-  [  "blue","cyan","gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
+  ["blue", "cyan", "gray"],
 ];
 
 const dayNames = ["Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun"];

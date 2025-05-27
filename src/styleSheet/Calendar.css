@@ -22,7 +22,7 @@ tr {
   padding: 10px;
   height: 110px;
   border-radius: 20px;
-   font-weight:500;
+  font-weight: 500;
 }
 .cal-teeth {
   width: 200px;
@@ -43,7 +43,7 @@ tr {
   border-radius: 20px;
   color: #041c7d;
   background-color: #dfdfed;
-  font-weight:500;
+  font-weight: 500;
 }
 .cal-inject {
   width: 300px;
@@ -57,10 +57,13 @@ tr {
 .cal-neuro {
   width: 180px;
 }
-.upcoming{
+.upcoming {
   margin-top: 20px;
   height: 400px;
 }
-.upcoming h3,.upcoming h5,.upcoming .schedules1,.upcoming .schedules2{
+.upcoming h3,
+.upcoming h5,
+.upcoming .schedules1,
+.upcoming .schedules2 {
   padding: 5px;
 }

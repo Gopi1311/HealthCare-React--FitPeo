@@ -8,15 +8,18 @@ const DashBord = () => {
   return (
     <div className="dash-bord ">
       <Navbar />
-      <div className="cont d-flex flex-direction-row "style={{marginTop:'30px',marginLeft:'50px'}}>
+      <div
+        className="cont d-flex flex-direction-row "
+        style={{ marginTop: "30px", marginLeft: "50px" }}
+      >
         <section className="sidebar">
           <Sidebar />
         </section>
         <section className="dash-cont">
-            <DashCont/>
+          <DashCont />
         </section>
         <section className="calendar">
-          <Calendar/>
+          <Calendar />
         </section>
       </div>
     </div>

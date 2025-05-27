@@ -1,6 +1,5 @@
 .nav {
   height: 70px;
-  /* background-color: red; */
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -9,10 +8,10 @@
 }
 .nav > div h1 {
   display: inline-block;
-  color:#03d5ff;
+  color: #03d5ff;
 }
 .nav > div .care {
-  color:#041c7d;
+  color: #041c7d;
 }
 input {
   padding: 10px;
