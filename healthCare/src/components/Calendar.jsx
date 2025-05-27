@@ -1,7 +1,7 @@
 import React from "react";
 import { RiArrowLeftFill } from "react-icons/ri";
 import { RiArrowRightFill } from "react-icons/ri";
-import "./Calendar.css";
+import "../styleSheet/Calendar.css";
 import teeth from "../assets/teeth.png";
 import inject from "../assets/inject.png";
 import { FaHeart, FaRegEye } from "react-icons/fa";

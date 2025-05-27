@@ -2,7 +2,7 @@ import human from "../assets/human.png";
 import lung from "../assets/lungs.png";
 import teeth from "../assets/teeth.png";
 import bone from "../assets/bone.png";
-import "./DashCont.css";
+import "../styleSheet/DashCont.css";
 import { ScanLine, Rotate3D } from "lucide-react";
 import { GiLeg } from "react-icons/gi";
 import { IoIosArrowRoundForward } from "react-icons/io";

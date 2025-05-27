@@ -1,6 +1,6 @@
 import React from "react";
 import { Bell, Search } from "lucide-react";
-import "./nav.css";
+import "../styleSheet/nav.css";
 const Navbar = () => {
   return (
     <div className="nav">

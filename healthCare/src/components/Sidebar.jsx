@@ -1,6 +1,6 @@
 import React from "react";
 import { FileChartLine } from "lucide-react";
-import "./Sidebar.css";
+import "../styleSheet/Sidebar.css";
 import { IoSettings } from "react-icons/io5";
 
 const Sidebar = () => {

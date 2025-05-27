@@ -1,5 +1,5 @@
 import React from "react";
-import "./WeeklyBarChart.css";
+import "../styleSheet/WeeklyBarChart.css";
 
 const data = [
   ["blue", "cyan", "gray"],
