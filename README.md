@@ -37,5 +37,5 @@ npm run build
    
 3. Open your browser and navigate to the address provided by the server, typically:
 ~~~
-http://localhost:3000
+http://localhost:5173
 ~~~
