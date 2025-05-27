@@ -6,7 +6,7 @@
 ## 1.Clone the Repository:
 
 ~~~
-git clone https://github.com/Gopi1311/web-chatBot.git
+git clone https://github.com/Gopi1311/HealthCare-React--FitPeo.git
 ~~~
 
 ~~~
