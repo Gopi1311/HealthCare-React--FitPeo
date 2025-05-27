@@ -1,8 +1,8 @@
 # HealthCare Static DashBoard 
 ## Tech Stack
-1.React Vite
-2.JavaScript 
-3.CSS / Bootstrap 
+##1.React Vite
+##2.JavaScript 
+####3.CSS / Bootstrap 
 ## 1.Clone the Repository:
 
 ~~~
